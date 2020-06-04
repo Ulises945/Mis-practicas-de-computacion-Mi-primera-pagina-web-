@@ -1,2 +1,2 @@
-# Mis-practicas-de-computacion-Mi-primera-pagina-web-
+# Mis practicas de computacion (Mi primera pagina web)
 Mi primera pagina web
